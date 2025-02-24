@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzj104)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
